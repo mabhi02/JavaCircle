@@ -1,2 +1,2 @@
-# JavaCircle
+# Interactive Calculator
  
